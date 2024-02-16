@@ -1,0 +1,6 @@
+[submodule "spaceship-test-web"]
+	path = spaceship-test-web
+	url = git@github.com:drlappies/spaceship-test-web.git
+[submodule "spaceship-test-service"]
+	path = spaceship-test-service
+	url = git@github.com:drlappies/spaceship-test-service.git
